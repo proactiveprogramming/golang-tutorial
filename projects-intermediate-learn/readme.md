@@ -1,4 +1,4 @@
-## Calculator (gui)
+## Calculator
 
 ## Countdown clock and timer 
 
