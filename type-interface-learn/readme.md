@@ -1,0 +1,1 @@
+# Golang Topic: type Interface
